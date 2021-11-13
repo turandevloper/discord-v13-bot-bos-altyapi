@@ -1,0 +1,20 @@
+{
+  "name": "yusufturan-bos-bot-v13",
+  "version": "0.0.8",
+  "description": "Yusuf TURAN Discord JS V13 Boş Altyapı",
+  "main": "yusufturan.js",
+  "scripts": {
+    "start": "node yusufturan.js"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {
+   "node": "16.6.0"
+  },
+  "dependencies": {
+    "path": "^0.12.7",
+    "fs": "^0.0.2",
+    "discord.js": "^13.0.1"
+  }
+}
